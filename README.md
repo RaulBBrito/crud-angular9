@@ -2,7 +2,7 @@
 
 <img alt="GoFinance" src="https://github.com/RaulBBrito/desafio07-fundamentos-reactjs/blob/master/desafio07.png">
 
-<p align="center">“Gestão de Finanças”!</blockquote>
+<p align="center">“Crud Produtos”!</blockquote>
 
 <p align="center">
   <img alt="Linguagem Utilizada" src="https://img.shields.io/badge/language-Angular9%20%2F%20TypeScript-blue">
@@ -54,7 +54,7 @@ Utilizamos apenas o GuitHub como forma de versionamento da aplicação.
 ## :busts_in_silhouette: Licença
 
 * **Raul Brito** - *Projeto Inicial* - [RaulBrito](http://www.raulbbrito.com)
-* **Blog Raul Brito** - *Apoiadores* - [Blog Raul Brito](https://blog.raulbbrito.com)
+* **Blog Raul Brito** - *Apoiadores* - [Blog Raul Brito](http://blog.raulbbrito.com/)
 
 
 
