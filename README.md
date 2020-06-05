@@ -1,6 +1,6 @@
 # :iphone: CRUD simples Angular 9
 
-<img alt="GoFinance" src="https://github.com/RaulBBrito/desafio07-fundamentos-reactjs/blob/master/desafio07.png">
+<img alt="GoFinance" src="https://github.com/RaulBBrito/crud-angular9/blob/master/front-end/src/assets/img/banner.png">
 
 <p align="center">“Crud Produtos”!</blockquote>
 
